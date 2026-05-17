@@ -1,0 +1,22 @@
+{
+  "name": "google-oauth",
+  "title": "Sign in with Google",
+  "description": "Allows users to register and log in using their Google account via OAuth 2.0.",
+  "version": "1.0.0",
+  "required_version": "1.0.0",
+  "author": "PhPstrap",
+  "author_url": "",
+  "namespace": "PhPstrap\\Modules\\GoogleOAuth",
+  "dependencies": [],
+  "settings": {
+    "client_id": "",
+    "client_secret": "",
+    "allowed_domains": ""
+  },
+  "hooks": [],
+  "permissions": [],
+  "auto_enable": 0,
+  "is_core": 0,
+  "is_commercial": 0,
+  "price": 0.00
+}
